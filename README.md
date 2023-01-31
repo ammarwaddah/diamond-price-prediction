@@ -108,13 +108,13 @@ To run and show analysis, insights, correlation, and results between any set of 
 
 * Note: you have to use a jupyter notebook to open this code file.
 
-1. Run the importing stage
+1. Run the importing stage.
 
-2. Run the dataset
+2. Load the dataset.
 
 3. Select which cell you would like to run and show its output.
 
-4. Run Selection/Line in Python Terminal command (Shift+Enter)
+4. Run Selection/Line in Python Terminal command (Shift+Enter).
 
 ## Sources
 This data was taken from SHAI competition (Diamond Price Prediction competition)\
