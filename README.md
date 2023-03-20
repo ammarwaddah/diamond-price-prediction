@@ -11,7 +11,6 @@ Using Data Science with Machine Learning to detect the price of diamonds using s
 * [Sources](#sources)
 
 ## Introduction
-This project is a part of my training at SHAI FOR AI.
 In a world of speed and development, and the great expansion of technology based on artificial intelligence, machine learning and its uses in many scientific and practical fields, academic and professional, as an example professionally in financial forecasts, which we find its importance based on the correct and accurate prediction of the problem and determining the possibility of addressing it and solving it in the most accurate ways, and scientific methods and evaluating it on the best possible standards.\
 Based on this introduction, I present to you my project in solving the problem of diamond price prediction, and my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning.\
 Hoping to improve it gradually in the coming times.
